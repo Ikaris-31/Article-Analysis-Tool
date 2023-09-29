@@ -1,2 +1,3 @@
 # Article-Analysis-Tool
-Analyses chunks of articles from web links provided 
+This tool allows users to ask specific questions about the article.
+GPT-3 generates accurate and context-aware answers, facilitating a deeper understanding of the content.
